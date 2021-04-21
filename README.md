@@ -2,8 +2,9 @@
 - 👋 Hello World!
 - 👀 I'm @Rehab-Alsuliman..
 - I believe I have a very solid background in technology.. 
-- I'm interested in [Programming + Data Sciences + CyberScurity]..
-- 💞️ Also, Always trying to be creative and different in my work.
+- I'm interested in [Programming [game - site - app ..elc] + Data Sciences + CyberScurity]..
+- 💞️ Also, Always trying to be creative and different in my work..
+- 
 
 <!---
 Rehab-Alsuliman/Rehab-Alsuliman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
